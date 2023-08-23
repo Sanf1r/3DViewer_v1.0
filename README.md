@@ -6,7 +6,11 @@ Tested on MacOS Big Sur 11.6.6.
 
 Made on January 19 2023 as part of my education in School 21 :)
 
+https://github.com/Sanf1r/3DViewer_v1.0/assets/100280376/e379dc79-2b38-4688-9655-bcfbf92817af
+
 ## Introduction
+
+https://github.com/Sanf1r/3DViewer_v1.0/assets/100280376/d3a03d0e-a10b-4bb7-8136-65fc1c9096a7
 
 This project implement a program to view 3D wireframe models (3D Viewer) in the C programming language. The models themselves must be loaded from .obj files and be viewable on the screen with the ability to rotate, scale and translate.
 
